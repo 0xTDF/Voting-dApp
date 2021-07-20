@@ -40,7 +40,8 @@ Smart contract enabling users to vote on the Ethereum blockchain.
 
 * [Solidity](https://docs.soliditylang.org/en/v0.8.6/)
 * [Truffle](https://www.trufflesuite.com/)
-* [Mocha](https://mochajs.org/)
+<!-- [Mocha](https://mochajs.org/) -->
+
 
 ## Future Work
   
@@ -62,6 +63,7 @@ Twitter - [@TraderTDF](https://twitter.com/TraderTDF)
 
 LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
 
+Project Link - [https://github.com/Elisik/Voting-dApp](https://github.com/Elisik/Voting-dApp)
 
 
 
